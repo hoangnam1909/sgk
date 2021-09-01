@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-family: ROGFont;
+  font-family: rog_font;
   src: url(../font/ROGFont.otf);
 }
 
@@ -278,7 +278,7 @@ body {
   left: -450px;
   margin: 0 auto;
   font-size: 100px;
-  font-family: ROGFont, Arial, Helvetica, sans-serif !important;
+  font-family: rog_font, Arial, Helvetica, sans-serif !important;
   text-align: left;
   line-height: 60px;
 }
